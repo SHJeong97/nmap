@@ -1,4 +1,4 @@
-# 🧪 Nmap Lab – Practical Verification
+# 🧪 Nmap – Practical Verification
 
 This document verifies hands-on experience using **Nmap** in a sandboxed lab environment.  
 Screenshots included in this repository serve as **evidence of execution and analysis**, not copied solutions or proprietary lab content.
@@ -92,17 +92,3 @@ Screenshots included in this repository serve as **evidence of execution and ana
 | `-oA <basename>` | Output in all major formats |
 
 ---
-
-## 📸 Screenshot Verification Notice
-
-Screenshots included in this repository:
-- Were captured from **authorized, sandboxed lab environments**
-- Demonstrate **commands executed and results analyzed**
-- Are **sanitized** to remove sensitive information
-- Support written findings and technical interpretation
-
----
-
-## 📘 Educational Disclaimer
-
-All scans and analyses documented here were performed in **controlled lab environments** using simulated or test systems for **educational and professional development purposes only**.
